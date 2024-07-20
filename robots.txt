@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mawbarype.github.io/sitemap
+Sitemap: https://mawbarype.github.io/app/sitemap
+Sitemap: https://mawbarype.github.io/assets/sitemap
+Sitemap: https://mawbarype.github.io/css/sitemap
+Sitemap: https://mawbarype.github.io/includes/sitemap
+Sitemap: https://mawbarype.github.io/item/sitemap
+Sitemap: https://mawbarype.github.io/src/sitemap
